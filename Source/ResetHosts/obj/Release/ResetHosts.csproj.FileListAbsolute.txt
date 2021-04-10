@@ -1,0 +1,10 @@
+C:\Users\lithe\source\repos\ResetHosts\ResetHosts\obj\Release\ResetHosts.csprojAssemblyReference.cache
+C:\Users\lithe\source\repos\ResetHosts\ResetHosts\obj\Release\ResetHosts.Form1.resources
+C:\Users\lithe\source\repos\ResetHosts\ResetHosts\obj\Release\ResetHosts.Properties.Resources.resources
+C:\Users\lithe\source\repos\ResetHosts\ResetHosts\obj\Release\ResetHosts.csproj.GenerateResource.cache
+C:\Users\lithe\source\repos\ResetHosts\ResetHosts\obj\Release\ResetHosts.csproj.CoreCompileInputs.cache
+C:\Users\lithe\source\repos\ResetHosts\ResetHosts\bin\Release\ResetHosts.exe.config
+C:\Users\lithe\source\repos\ResetHosts\ResetHosts\bin\Release\ResetHosts.exe
+C:\Users\lithe\source\repos\ResetHosts\ResetHosts\bin\Release\ResetHosts.pdb
+C:\Users\lithe\source\repos\ResetHosts\ResetHosts\obj\Release\ResetHosts.exe
+C:\Users\lithe\source\repos\ResetHosts\ResetHosts\obj\Release\ResetHosts.pdb
